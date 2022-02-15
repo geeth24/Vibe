@@ -3,4 +3,4 @@ discord
 asyncio
 youtube_dl
 PyNaCl
--e git+git://github.com/thetechie7/pafy.git@develop#egg=pafy
+-e git+git://github.com/mohamed-challal/pafy.git@develop#egg=pafy
