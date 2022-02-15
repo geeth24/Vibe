@@ -3,3 +3,4 @@ discord
 asyncio
 youtube_dl
 PyNaCl
+-e git+git://github.com/thetechie7/pafy.git
