@@ -2,5 +2,5 @@ discord.py
 discord
 asyncio
 youtube_dl
--e git+https://github.com/mps-youtube/pafy.git
+git+https://github.com/mps-youtube/pafy.git@develop
 PyNaCl
